@@ -5,7 +5,7 @@
 
 >**Tips：以下工具集均依赖Python环境，请先配置好Python环境与环境变量后操作。**
 >
->**可通过Bash / CMD执行`https://github.com/zchengb/py-cli.git`拉取**
+>**可通过Bash / CMD执行`git clone https://github.com/zchengb/py-cli.git`拉取**
 
 ## 0. get-code
 
