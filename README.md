@@ -1,7 +1,7 @@
 <h1 align="center">py-cli</h1>
 
-<p align="center"><img src="https://img.shields.io/badge/author-zchengb-%230C7DBE"/><img src="https://img.shields.io/badge/python-v3.8-blue"/><img src="https://img.shields.io/badge/license-MIT-green"/>
-<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zchengb/py-cli?style=social"/></p>
+<p align="center"><img src="https://img.shields.io/badge/author-zchengb-%230C7DBE"/>&nbsp;<img src="https://img.shields.io/badge/python-v3.8-blue"/>&nbsp;<img src="https://img.shields.io/badge/license-MIT-green"/>&nbsp;
+<img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/zchengb/py-cli?style=social"/>&nbsp;</p>
 
 >**Tips：以下工具集均依赖Python环境，请先配置好Python环境与环境变量后操作。**
 >
