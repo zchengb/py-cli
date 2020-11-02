@@ -1,2 +1,2 @@
 #!/bin/bash
-python ./script/code.py
+python PATH/code.py
