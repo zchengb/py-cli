@@ -13,7 +13,7 @@
 
 ### 0.1 Bash方式
 
-- 执行安装脚 本
+- 执行安装脚本
 
 ```shell
 $ bash install.sh
@@ -40,7 +40,7 @@ Download successful：1604297573.8338182.zip
 
 >手动获取主要针对用户手动执行脚本文件进行激活码的获取，按照以下流程执行即可，只需执行一次安装依赖步骤。
 
-- 安装依赖*（需进入项目路径下执行）*
+- 安装依赖 *（需进入项目路径下执行）*
 
 ```bash
 $ pip --trusted-host mirrors.aliyun.com install -i http://mirrors.aliyun.com/pypi/simple/ -r requirements.txt
