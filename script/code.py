@@ -22,5 +22,9 @@ if __name__ == "__main__":
         if os.path.isfile(fileName):
             os.remove(fileName)
             print("################  Clean Up  #################")
-    except e:
-        print("Please try to update our tools by this git command in the root directory: 'git pull origin master'")
+    except:
+        if os.path.isfile(fileName):
+            os.remove(fileName)
+        print()
+        print("ERROR!")
+        print("Please try to update our tools with Git Command in the root directory: 'git pull origin master'")

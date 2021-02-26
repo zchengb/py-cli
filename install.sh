@@ -11,7 +11,7 @@ cd script
 path=$(readlink -f ./)
 if [ -f $path/$execFile ]; then
   # 替换执行路径
-  sed -i "s@python PATH@python $path@" $path/$execFile
+  sed -i "3,$ s@python PATH@python $path@" $path/$execFile
   echo Initialize $execFile successfully.
 else
   echo $execFile not found!
